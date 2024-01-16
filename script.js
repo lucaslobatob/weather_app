@@ -1,4 +1,4 @@
-const apiKey = "https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=6da515c1ac87967115cf56c48474702f";
+const apiKey = "6da515c1ac87967115cf56c48474702f";
 const apiCountryURL = "https://countryflagsapi.com/png/";
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
